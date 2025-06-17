@@ -2,14 +2,6 @@
 
 A command-line-based expense tracker built with Python. It allows you to log, view, edit, delete, search, and analyze your personal expenses efficiently.
 
-##  Project Structure
-personal-expense-tracker/
-├── data/
-│ ├── expenses.json
-│ └── expenses_backup.json
-├── expense_tracker.py
-├── README.md
-
 ##  Features
 
 - Add new expense entries with amount, category, date, and optional note
