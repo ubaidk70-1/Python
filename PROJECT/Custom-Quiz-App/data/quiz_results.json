@@ -1,0 +1,12 @@
+[
+    {
+        "username": "ubaid",
+        "category": "General Knowledge",
+        "difficulty": "All",
+        "score_percent": 66.66666666666666,
+        "time_taken": "00:12",
+        "incorrect_questions": [
+            "What is the capital of France?"
+        ]
+    }
+]
