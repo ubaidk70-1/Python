@@ -43,12 +43,13 @@ Custom-Quiz-App/
 1. **Clone the Repository**
    
    git clone https://github.com/your-username/your-repo-name.git
+
    cd your-repo-name/Custom-Quiz-App
    
-2. **Run the Application**
+3. **Run the Application**
     python main.py
 
-3. **Follow Prompts to:**
+4. **Follow Prompts to:**
 
   - Enter your username
 
