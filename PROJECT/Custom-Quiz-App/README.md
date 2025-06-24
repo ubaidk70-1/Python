@@ -19,21 +19,24 @@ A terminal-based Python quiz application that allows users to select quiz catego
 
 ---
 
-## Project Structure
+## 🗂️ Project Structure
 
+```
 Custom-Quiz-App/
 │
-├── quiz_data.py # Question bank (organized by category and difficulty)
-├── quiz_engine.py # Core quiz logic and interaction
-├── user_profiles.py # Functions for saving/viewing user scores
-├── utils.py # Helper functions (e.g., input validation, time formatting)
-├── main.py # Entry point and menu interface
+├── quiz_data.py         # Question bank (organized by category and difficulty)
+├── quiz_engine.py       # Core quiz logic and interaction
+├── user_profiles.py     # Handles saving/viewing user scores
+├── utils.py             # Helper functions (e.g., input validation, time formatting)
+├── main.py              # Entry point and main menu
 │
 ├── data/
-│ ├── quiz_results.json # Stores detailed quiz attempts (auto-created)
-│ └── user_profiles.json # Stores user profile scores (auto-created)
+│   ├── quiz_results.json    # Stores detailed quiz attempts (auto-created)
+│   └── user_profiles.json   # Stores user score history (auto-created)
 │
-└── README.md # Project documentation
+└── README.md            # Project documentation
+```
+
 
 
 ---
