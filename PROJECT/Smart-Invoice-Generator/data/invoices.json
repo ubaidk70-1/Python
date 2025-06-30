@@ -1,0 +1,24 @@
+[
+    {
+        "invoice_id": "INV-5B5BBEC1",
+        "invoice_type": "ProductInvoice",
+        "client": {
+            "name": "Md Ubaid Khan",
+            "email": "uk601999@gmail.com",
+            "phone": "9307047616",
+            "client_id": "CLIENT-4896"
+        },
+        "items": [
+            {
+                "name": "Laptop",
+                "quantity": "5",
+                "price": "55000"
+            }
+        ],
+        "issue_date": "2025-06-30",
+        "due_date": "2025-07-30",
+        "tax_rate": "8",
+        "discount": "5000",
+        "status": "Paid"
+    }
+]
