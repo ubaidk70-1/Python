@@ -24,7 +24,7 @@ A Python-based terminal application for generating and managing **product** and 
 - Dynamic due date calculation
 
 ### Client Management
-- Create clients with validated name, email, and phone
+- Create clients with a validated name, email, and phone
 - Auto-generate unique client IDs
 
 ### Data Storage
@@ -53,7 +53,7 @@ A Python-based terminal application for generating and managing **product** and 
 
 ##  Project Structure
 
----
+```
 Smart-Invoice-Generator/
 │
 ├── main.py # CLI interface
@@ -71,8 +71,7 @@ Smart-Invoice-Generator/
    └──actions.log
 │
 └── README.md   
----
-
+```
 ## Getting Started
 
 ### 1. Clone the Repository
