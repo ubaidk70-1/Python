@@ -54,7 +54,6 @@ A Python-based terminal application for generating and managing **product** and 
 ##  Project Structure
 
 ---
-
 Smart-Invoice-Generator/
 │
 ├── main.py # CLI interface
@@ -72,7 +71,6 @@ Smart-Invoice-Generator/
    └──actions.log
 │
 └── README.md   
-
 ---
 
 ## Getting Started
@@ -112,7 +110,9 @@ No external dependencies required.
 
 + REST API for remote access
 
-Author
+## Author
+
 Ubaid Khan
+
 A developer on a Python learning journey, building practical, real-world tools with clean code and strong OOP principles.
  
