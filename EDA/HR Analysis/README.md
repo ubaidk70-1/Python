@@ -108,7 +108,7 @@ This HR Analytics project demonstrates how a structured EDA process can extract 
 ## Author
 
 **Ubaid Khan**  
-*Aspiring Data Analyst with focus on real-world business problems*
+*Aspiring Data Analyst*
 
 ---
 
