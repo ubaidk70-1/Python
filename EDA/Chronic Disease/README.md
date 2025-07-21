@@ -37,7 +37,7 @@ This phase prepares the clean data for machine learning models.
 
 ## Repository Structure
 
-
+```
 ckd-data-preprocessing-project/
 │
 ├── data/
@@ -54,7 +54,7 @@ ckd-data-preprocessing-project/
 │
 └── requirements.txt                    # Required Python libraries
 
-
+```
 ---
 
 ## How to Run
